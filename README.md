@@ -6,7 +6,7 @@
 
 This is a osint tool, you have to supply your own database.txt though, it searches for your input in your datadump or database.
 
-https://img.shields.io/badge/discord_is-nosleep.gov
+![discord badge](https://img.shields.io/badge/discord_is-nosleep.gov)
 
 
 ## Authors
