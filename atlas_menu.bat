@@ -1,7 +1,7 @@
 @echo off
 color 2
 chcp 65001 >nul
-Title Atlas by nosleep.gov
+Title Atlas by Conflicted
 echo Welcome to....
 :: use any ascii art here..
 echo  ▄▄▄     ▄▄▄█████▓ ██▓    ▄▄▄        ██████     ██▒   █▓    ██▓
