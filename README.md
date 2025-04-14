@@ -10,7 +10,7 @@ This is a osint tool, you have to supply your own database.txt though, it search
 
 ## Authors
 
-- [@Slasherslut aka nosleep](https://github.com/slasherslut)
+- [@Conflicted](https://github.com/trojaninfect)
 
 
 ## Installation
